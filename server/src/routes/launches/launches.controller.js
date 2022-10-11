@@ -18,7 +18,7 @@ function httpCreateLaunches(req, res) {
     });
   }
   addNewLaunch(launch);
-  return res.status(201).json({ launch: launch});
+  return res.status(201).json(launch);
 }
 
 function httpAbortLaunch(req, res) {
