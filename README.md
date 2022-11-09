@@ -1,2 +1,2 @@
 # NASA-Mission-Control
-![imagen](https://user-images.githubusercontent.com/62709855/195183755-aaf855ff-4317-4ada-9fc0-def65a016b64.png)
+![Slide 4_3 - 1](https://user-images.githubusercontent.com/62709855/200945223-10e758f1-4193-4803-9eb8-08bb49473e45.png)
