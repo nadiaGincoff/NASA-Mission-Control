@@ -23,7 +23,7 @@ async function httpCreateLaunches(req, res) {
     });
   }
   await scheduleNewLaunch(launch);
-  return res.status(201).json({ launch: launch });
+  return res.status(201).json(launch);
 }
 
 async function httpAbortLaunch(req, res) {

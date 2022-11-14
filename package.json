@@ -14,5 +14,8 @@
     "watch": "npm run server & npm run client",
     "deploy": "npm run build --prefix client && npm start --prefix server",
     "test": "npm test --prefix server && npm test --prefix client"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
